@@ -23,6 +23,14 @@ airports/test_airports.py:9:11: E0001: Parsing failed: 'unterminated string lite
 ./coding_problems/01-monday/test_monday.py
 ./coding_problems/03-wednesday/wednesday.py
 ./coding_problems/03-wednesday/test_wednesday.py
+./country_searcher.py
+************* Module country_searcher
+country_searcher.py:2:0: W0612: Unused variable 'json' (unused-variable)
+country_searcher.py:2:0: W0611: Unused import json (unused-import)
+
+-----------------------------------
+Your code has been rated at 8.33/10
+
 ./countries/test_countries.py
 ./countries/countries.py
 ************* Module countries

@@ -8,7 +8,17 @@
     "airports/errors.py:19:0: W0612: Unused variable 'InputError' (unused-variable)"
    ],
    "score": 76.9
+  },
+  {
+   "file_name": "./airports/airports.py",
+   "errors": [
+    "airports/airports.py:36:42: E0001: Parsing failed: 'unterminated string literal (detected at line 36) (airports, line 36)' (syntax-error)",
+    "airports/test_airports.py:9:11: E0001: Parsing failed: 'unterminated string literal (detected at line 9) (test_airports, line 9)' (syntax-error)",
+    "country_searcher.py:2:0: W0612: Unused variable 'json' (unused-variable)",
+    "country_searcher.py:2:0: W0611: Unused import json (unused-import)"
+   ],
+   "score": 83.3
   }
  ],
- "average_score": 76.9
+ "average_score": 80.1
 }
