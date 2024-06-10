@@ -1,0 +1,14 @@
+{
+ "files": [
+  {
+   "file_name": "./airports/errors.py",
+   "errors": [
+    "airports/errors.py:3:4: W0107: Unnecessary pass statement (unnecessary-pass)",
+    "airports/errors.py:6:0: W0612: Unused variable 'APIError' (unused-variable)",
+    "airports/errors.py:19:0: W0612: Unused variable 'InputError' (unused-variable)"
+   ],
+   "score": 76.9
+  }
+ ],
+ "average_score": 76.9
+}
